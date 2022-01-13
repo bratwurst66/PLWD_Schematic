@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=PLWD_TopSheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PLWD_TopSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=PLWD_Bluetooth.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PLWD_Bluetooth.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLWD_TopSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=PLWD_MCU_IO.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PLWD_MCU_IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
