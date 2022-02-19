@@ -115,23 +115,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KBYOAQKV
 
 [Document5]
-DocumentPath=PLWD_GNSS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BPYWLCSV
-
-[Document6]
 DocumentPath=PLWD_GNSS_RF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,8 +131,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXNENXSE
 
-[Document7]
-DocumentPath=PLWD_GNSS_NEW.SchDoc
+[Document6]
+DocumentPath=PLWD_GNSS_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
