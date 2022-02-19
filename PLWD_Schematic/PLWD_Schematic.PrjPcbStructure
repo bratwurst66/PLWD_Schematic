@@ -1,9 +1,9 @@
 Record=TopLevelDocument|FileName=PLWD_TopSheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PLWD_TopSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=PLWD_GNSS_RF.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=PLWD_GNSS_RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PLWD_TopSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=PLWD_Bluetooth.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PLWD_Bluetooth.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PLWD_TopSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=PLWD_MCU_IO.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PLWD_MCU_IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_Battery_Charger.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_GNSS.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_GNSS_NEW.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_GNSS_RF.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_harvesting.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_USB.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_GNSS_1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_LTE_modem.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_LTE_Power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_LTE_SIM.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=PLWD_TopSheet.SchDoc|FileName=PLWD_LTE_stmod.SchDoc|SheetNumber=9
