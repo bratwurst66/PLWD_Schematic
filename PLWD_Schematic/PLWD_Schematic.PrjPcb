@@ -251,23 +251,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CAAEGCNC
 
 [Document13]
-DocumentPath=PLWD_LTE_stmod.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OITXRIFH
-
-[Document14]
 DocumentPath=PLWD_Battery_Charger.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBGGSVLA
 
-[Document15]
+[Document14]
 DocumentPath=PLWD_harvesting.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQCUYZDK
 
-[Document16]
+[Document15]
 DocumentPath=PLWD_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
