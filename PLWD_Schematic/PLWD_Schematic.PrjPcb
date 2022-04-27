@@ -31,9 +31,11 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for PLWD_Schematic
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+VaultGUID=C389189B-BFBC-4FAA-8224-38AE98BFD65A
+ReleaseVaultName=Carleton University
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -348,7 +350,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for PLWD_Schematic
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
